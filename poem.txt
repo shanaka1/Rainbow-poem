@@ -1,8 +1,8 @@
-red,
-orange,
-yellow, 
-green,
-blue, 
-indigo, 
+red
+orange
+yellow 
+green
+blue 
+indigo 
 violet
-these are the color of rainbow 
+these are the colors of rainbow 
